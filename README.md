@@ -6,7 +6,7 @@ As of now the dataset is completely random and thus prediction may be incorrect.
 <br>
 
 ### Dataset features
-The extended_disease_prediction_dataset.csv file contains the csv file created using the program
+The extended_disease_prediction_dataset.csv file contains the csv file created using the program <br>
 Key Variables:
 
 -   **Patient ID:** Unique identifier for each patient.
