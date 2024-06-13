@@ -6,6 +6,7 @@ As of now the dataset is completely random and thus prediction may be incorrect.
 <br>
 
 ### Dataset features
+The extended_disease_prediction_dataset.csv file contains the csv file created using the program
 Key Variables:
 
 -   **Patient ID:** Unique identifier for each patient.
@@ -24,3 +25,6 @@ Key Variables:
 -   **Lung Disease:** Binary indicator for lung disease (0: No, 1: Yes).
 -   **Ulcer:** Binary indicator for ulcer (0: No, 1: Yes).
 -   **Kidney Disease:** Binary indicator for kidney disease (0: No, 1: Yes).
+
+dataset.py file contains the code for creating the desired dataset. Note that the datas are randomly prepared. <br>
+You can created n number of entries by changing the value of n_samples variable.
